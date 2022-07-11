@@ -1,16 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: nanbowaner # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://thissitedoesnotexist.koj.co  
+  - name: cmx.im 
+    url: https://m.cmx.im  
+  - name: inoreader  
+    url: https://www.inoreader.com  
+  - name: archive.ph  
+    url: https://archive.ph  
+  - name: disroot  
+    url: https://cloud.disroot.org  
+  - name: bgme.tv  
+    url: https://bgm.tv  
+  - name: ddrk  
+    url: https://ddrk.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
