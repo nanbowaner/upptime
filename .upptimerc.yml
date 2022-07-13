@@ -18,7 +18,11 @@ sites:
   - name: bgme.tv  
     url: https://bgm.tv  
   - name: ddrk  
-    url: https://ddrk.me
+    url: https://ddrk.me  
+
+  - name: ddrk v2 
+    url: https://ddrk.me 
+    method: POST 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
