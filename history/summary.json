@@ -76,19 +76,19 @@
     "url": "https://archive.ph",
     "icon": "https://favicons.githubusercontent.com/archive.ph",
     "slug": "archive-ph",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1124,
-    "timeDay": 889,
-    "timeWeek": 1113,
-    "timeMonth": 1124,
-    "timeYear": 1124,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1107,
+    "timeDay": 885,
+    "timeWeek": 1084,
+    "timeMonth": 1107,
+    "timeYear": 1107,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 25
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-07-22": 1100,
+      "2022-07-22": 1125,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
@@ -175,7 +175,7 @@
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2022-07-22": 1100,
+      "2022-07-22": 1125,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
