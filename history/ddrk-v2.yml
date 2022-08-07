@@ -1,7 +1,7 @@
 url: https://ddrk.me
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2022-08-07T13:36:04.837Z
+status: down
+code: 500
+responseTime: 90
+lastUpdated: 2022-08-07T18:07:19.385Z
 startTime: Wed Jul 13 2022 02:44:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
