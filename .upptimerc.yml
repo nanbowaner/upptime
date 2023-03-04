@@ -7,22 +7,6 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co  
-  - name: cmx.im 
-    url: https://m.cmx.im  
-  - name: inoreader  
-    url: https://www.inoreader.com  
-  - name: archive.ph  
-    url: https://archive.ph  
-  - name: disroot  
-    url: https://cloud.disroot.org  
-  - name: bgme.tv  
-    url: https://bgm.tv  
-  - name: ddrk  
-    url: https://ddrk.me  
-
-  - name: ddrk v2 
-    url: https://ddrk.me 
-    method: POST 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
